@@ -41,6 +41,5 @@
 
 <br clear="both">
 
-<img class="output" src="https://github-readme-stats.vercel.app/api?username=yeisonbetancur&amp;theme=dracula&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
-
+![yeisonbetancur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeisonbetancur&theme=dracula&hide_border=true)
 <img src="https://raw.githubusercontent.com/yeisonbetancur/yeisonbetancur/output/snake.svg" alt="Snake animation" style="border: 2px solid grey;" />
